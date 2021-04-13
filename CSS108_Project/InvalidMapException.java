@@ -1,3 +1,0 @@
-class InvalidMapException extends Exception{
-
-}
